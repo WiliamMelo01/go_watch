@@ -46,7 +46,7 @@ class MovieRepository implements IMovieRepository {
       throw Exception("Invalid Url");
     }
 
-    throw Exception("Could not fetch genres");
+    throw Exception("Could not fetch movies");
   }
 
   @override
@@ -79,7 +79,7 @@ class MovieRepository implements IMovieRepository {
       throw Exception("Invalid Url");
     }
 
-    throw Exception("Could not fetch genres");
+    throw Exception("Could not fetch movies");
   }
 
   @override
@@ -112,7 +112,7 @@ class MovieRepository implements IMovieRepository {
       throw Exception("Invalid Url");
     }
 
-    throw Exception("Could not fetch genres");
+    throw Exception("Could not fetch movies");
   }
 
   @override
@@ -139,6 +139,6 @@ class MovieRepository implements IMovieRepository {
       throw Exception("Invalid Url");
     }
 
-    throw Exception("Could not fetch genres");
+    throw Exception("Could not fetch movies");
   }
 }
