@@ -80,6 +80,8 @@ Inicie a aplicação em seu emulador
   flutter run
 ```
 
+## Download do APK
+O APK do goWatch está disponível para download [aqui](https://drive.google.com/file/d/1oaIJ8jv3FuPlI6yOIN96hROZAEc7P4gr/view?usp=sharing).
 
 ## Feedback
 
